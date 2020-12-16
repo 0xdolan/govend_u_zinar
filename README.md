@@ -44,13 +44,13 @@ Note:
 
 - **CSS** **file** **SHOULD NOT be renamed**
 
-[Download MDX](https://github.com/dolanskurd/Xal/blob/master/Xal%20Dictionary/Xal%20Dictionary.mdx)
+[Download MDX](https://github.com/dolanskurd/govend_u_zinar/blob/main/Govend_u_Zinar%20Dictionary/govend_u_zinar.mdx)
 
 Download MDD (N/A)
 
-[Download CSS](https://github.com/dolanskurd/Xal/blob/master/Xal%20Dictionary/XalD.css)
+[Download CSS](https://github.com/dolanskurd/govend_u_zinar/blob/main/Govend_u_Zinar%20Dictionary/gz.css)
 
-[Download Dictionary Icon](https://github.com/dolanskurd/Xal/blob/master/Xal%20Dictionary/Xal%20Dictionary.png)
+[Download Dictionary Icon](https://github.com/dolanskurd/govend_u_zinar/blob/main/Govend_u_Zinar%20Dictionary/govend_u_zinar.jpg)
 
 ## Usage Instructions
 
