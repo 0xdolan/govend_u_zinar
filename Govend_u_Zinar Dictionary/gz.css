@@ -1,0 +1,61 @@
+.dir {
+  direction: rtl;
+  /* line-height: 2.1em; */
+  line-height: 2.9em;
+}
+
+.entry {
+  font-family: "Shabnam", "Estedad", "Tahoma";
+  font-weight: bold;
+  font-size: 17px;
+  color: #2720ba;
+}
+
+.pos {
+  font-family: "Shabnam", "Estedad", "Vazir", "Noto Sans Arabic", "Arial",
+    "Tahoma";
+  font-size: 14px;
+  color: #0f0f0f;
+  background-color: #ffef5c;
+  display: inline;
+  padding: 4px 9px 2px 9px;
+  border-radius: 5px;
+  border: 0.8px solid #e6da3c;
+}
+
+.meaning {
+  font-family: "sahel", "Estedad", "Vazir", "Noto Sans Arabic", "Arial",
+    "Tahoma";
+  /* font-family: "Sahel VF", "Estedad", "Vazir", "Noto Sans Arabic", "Arial",
+    "Tahoma"; */
+  font-size: 16px;
+  color: #0f0f0f;
+}
+
+.title {
+  font-family: "Estedad", "Shabnam", "Tahoma";
+  font-weight: bold;
+  font-size: 18px;
+  color: #0f0f0f;
+}
+
+.description {
+  font-family: "sahel", "Estedad", "Vazir", "Noto Sans Arabic", "Arial",
+    "Tahoma";
+  font-size: 16px;
+  color: #0f0f0f;
+}
+
+a {
+  text-decoration: none;
+  color: #0f0f0f;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  width: 250px;
+  border-radius: 8px;
+}
